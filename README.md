@@ -1,2 +1,2 @@
 # number-counter
-A number counter made using html, css and javascript.
+A responsive number counter made using html, css and vanilla javascript.
